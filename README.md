@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, AWS, CCNA**
 
-- 👨‍💻 All of my projects are available at [megagnarly.github.io/](megagnarly.github.io/)
+- 👨‍💻 All of my projects are available at [megagnarly.github.io](megagnarly.github.io)
 
 - 📫 How to reach me **davidliu0115@gmail.com**
 
